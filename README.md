@@ -10,8 +10,8 @@ Welcome to my data science project portfolio! These projects were completed as p
 |--------|-------------|--------|
 | [Customer Churn Prediction](https://github.com/CoryRamey30/customer-churn-prediction) | ML model to predict churn and improve retention | Python, scikit-learn |
 | [Gold Recovery Prediction](https://github.com/CoryRamey30/Gold-Recovery) | ML model to predict the amount of gold recovered from ore during the mining process | Pandas, scikit-learn |
-| [Airport Taxi Time Series](https://github.com/CoryRamey30/airport-taxis) | Regression model to predict housing prices | Python, Matplotlib |
-| [Oil Well Selection](https://github.com/CoryRamey30/oil-well-selection) | Time Series Prediction o better allocate drivers during peak hours | Python, Matplotlib |
+| [Airport Taxi Time Series](https://github.com/CoryRamey30/airport-taxis) | Time Series Prediction to better allocate drivers during peak hours | Python, Matplotlib |
+| [Oil Well Selection](https://github.com/CoryRamey30/oil-well-selection) | ML and statistical analysis to  maximize return while minimizing risk of loss | Python, Matplotlib |
 
 ---
 
