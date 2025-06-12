@@ -9,7 +9,7 @@ Welcome to my data science project portfolio! These projects were completed as p
 | Project | Description | Tools |
 |--------|-------------|--------|
 | [Customer Churn Prediction](https://github.com/CoryRamey30/customer-churn-prediction) | ML model to predict churn and improve retention | Python, scikit-learn |
-| [Marketing Campaign Analysis](https://github.com/yourusername/marketing-campaign-analysis) | EDA of customer behavior in marketing data | Pandas, Seaborn |
+| [Gold Recovery Prediction](https://github.com/CoryRamey30/) | ML model to predict the amount of gold recovered from ore during the mining process | Pandas, scikit-learn |
 | [Real Estate Price Modeling](https://github.com/yourusername/real-estate-modeling) | Regression model to predict housing prices | XGBoost, Matplotlib |
 
 ---
